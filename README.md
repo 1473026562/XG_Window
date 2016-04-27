@@ -23,3 +23,6 @@ ngui window for u3d;
 6,NavigationMode.End;
 
 详情可下载代码看;
+
+
+QQ交流群:193069075(可申请提交您更佳的代码)
